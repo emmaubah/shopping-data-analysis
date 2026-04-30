@@ -10,8 +10,8 @@ What are 6 analytical questions you can ask about this dataset?
 
 - Which season appears to have an impact on a customer's spending per customer as well as their frequency of purchases?
 
-- Is there a connection between desired shipping method and location?
+- Are repeat purchases more common among consumers who provide higher ratings?
 
-- 
+- Is there a connection between desired shipping method and location?
 
 - Which item do consumers usually spend more or less on each transaction?
