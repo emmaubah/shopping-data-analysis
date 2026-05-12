@@ -71,8 +71,10 @@ A strong question is:
 
 In addition to your own questions, your analysis **must** address these four:
 
-1. What are the most popular colors by season?
+1. What are the most popular colors by season? 
+    Fall: Brown, Spring: Baby Blue, Summer: Lavender, Winter: Black
 2. What is the most popular clothing item by season?
+    Fall: Socks, Spring: Running Shoes, Summer: Shoes, Winter: Leggings
 3. What is the effect of promo codes on the dollar amount of purchases?
 4. When do users leave a review?
 
